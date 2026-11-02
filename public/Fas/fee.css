@@ -1,0 +1,61 @@
+body { 
+    background-color: #f8f9fa; 
+}
+.navbar a { 
+    color: white !important; 
+}
+.navbar { 
+    background-color: #0d6efd; 
+}
+.navbar .nav-link { 
+    color: white !important; 
+    padding: 6px 12px; 
+    border-radius: 6px;
+    transition: all 0.3s;
+}
+.navbar .nav-link:hover { 
+    background-color: #000000;
+    color: white !important;
+    border-radius: 6px;
+}
+.navbar .nav-link.fw-bold { 
+    background-color: #000000; 
+    color: white !important;
+    border-radius: 6px;
+}
+.navbar-brand { 
+    color: white !important; 
+    transition: all 0.3s;
+}
+.navbar-brand:hover { 
+    background-color: #000000;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+.card { 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1); border: none; border-radius: 10px; 
+}
+.card-header { 
+    background-color: #0d6efd; color: white; border-radius: 10px 10px 0 0 !important; 
+}
+.table thead { 
+    background-color: #0d6efd; color: white; 
+}
+.btn-update { 
+    background-color: #198754; color: white; border: none; padding: 3px 10px; border-radius: 4px; 
+}
+.btn-delete { 
+    background-color: #dc3545; color: white; border: none; padding: 3px 10px; border-radius: 4px; 
+}
+.page-title { 
+    background-color: #0d6efd; color: white; padding: 15px; border-radius: 8px; margin-bottom: 20px; 
+}
+.btn-receipt { 
+    background-color: #fd7e14; color: white; border: none; padding: 3px 10px; border-radius: 4px; 
+}
+.select-section { 
+    background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 20px; 
+}
+.form-section { 
+    background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
